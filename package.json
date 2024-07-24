@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-multithread",
+  "version": "1.0.0",
+  "description": "Project to validate nodeJs native functions running multi thread",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicius Issa"
+}
